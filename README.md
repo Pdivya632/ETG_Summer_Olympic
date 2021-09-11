@@ -1,5 +1,5 @@
 # ETG_Summer_Olympic
-Project based on Dataset Analysis, which done using Google collab.
+Project based on Dataset Analysis.
 
 **Files included :**
 CSV file includes whole datset.
